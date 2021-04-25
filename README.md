@@ -7,4 +7,4 @@ Arquivos embarcados no projeto de um drone DIY como projeto de TCC da UNESP.
 
 A plataforma usada foi um NodeMCU 12E.
 
-Caso encontre algum problema, abra uma issue [aqui](www.github.com/mochetti/drone_embarcado/issues/new).
+Caso encontre algum problema, abra uma issue [aqui](https://github.com/mochetti/drone_embarcado/issues/new).
